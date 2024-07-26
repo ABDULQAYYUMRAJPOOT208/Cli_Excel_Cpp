@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\3 Third Semester\Dsa\FinalExcel\Source.cpp(15,41): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\3 Third Semester\Dsa\FinalExcel\Header.h(856,18): warning C4305: 'initializing': truncation from '__int64' to 'double'
+D:\3 Third Semester\Dsa\FinalExcel\Header.h(272,12): warning C4309: 'initializing': truncation of constant value
+D:\3 Third Semester\Dsa\FinalExcel\Header.h(296,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\3 Third Semester\Dsa\FinalExcel\Header.h(319,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FinalExcel.vcxproj -> D:\3 Third Semester\Dsa\FinalExcel\x64\Debug\FinalExcel.exe
